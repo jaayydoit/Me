@@ -15,4 +15,5 @@
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=lua" />
 <img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=cpp" />
 </p>
