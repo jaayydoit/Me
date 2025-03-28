@@ -13,4 +13,7 @@
 <img src="https://skillicons.dev/icons?i=bootstrap" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=lua" />
+<img src="https://skillicons.dev/icons?i=corona" />
+<img src="https://skillicons.dev/icons?i=visualbasic" />
 </p>
