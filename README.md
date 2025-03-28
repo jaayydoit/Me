@@ -16,5 +16,5 @@
 <img src="https://skillicons.dev/icons?i=lua" />
 <img src="https://skillicons.dev/icons?i=java" />
 <img src="https://skillicons.dev/icons?i=cpp" />
-<img src="https://skillicons.dev/icons?i=sin" />
+<img src="https://skillicons.dev/icons?i=sln" />
 </p>
