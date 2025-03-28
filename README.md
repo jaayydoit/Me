@@ -14,6 +14,6 @@
 <img src="https://skillicons.dev/icons?i=vscode" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=lua" />
-<img src="https://skillicons.dev/icons?i="c++/>
+<img src="https://skillicons.dev/icons?i="c/>
 <img src="https://skillicons.dev/icons?i=vb.net" />
 </p>
